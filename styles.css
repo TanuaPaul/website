@@ -4,8 +4,9 @@ font-family: 'Caveat', cursive;
 }
 
 .bottom-cloud{
-position:absolute;
-left:300px;
+position:relative;
+left:50px;
+bottom: 300px;
 }
 
 .top-cloud{
@@ -35,6 +36,8 @@ color:#11999E;
 .introduction{
 font-size:2em;
 font-color:#40514E;
+width: 50%;
+margin:30px auto 30px auto;
 }
 
 hr{
@@ -142,9 +145,3 @@ color:#ffffff;
 color:#EAF6F6;
 margin: 50px 0 0 0;
 }
-
-
-
-
-
-
